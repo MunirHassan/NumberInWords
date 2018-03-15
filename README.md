@@ -17,8 +17,7 @@ This Web application converts Number into Words. It has two parts, one WebAPI an
 ## Pre-requisite to run the application
 
 * For .Net core: Microsoft Visual Studio 2017 - Version 15.4.3
-* For Angular 4: Please install node from (https://nodejs.org/en/download/)
-* Need to install angular CLI using command prompt "npm install -g @angular/cli" , help: ("https://angular.io/guide/quickstart")
+* For Angular 4: Please install node from (https://nodejs.org/en/download/) , need to install angular CLI using command prompt "npm install -g @angular/cli" , help: ("https://angular.io/guide/quickstart")
 
 
 ## To run the Solution
