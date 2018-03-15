@@ -1,0 +1,28 @@
+<div class="container">
+  <div>
+    <h1>Number into Words Conversion</h1>
+    <form [formGroup]="converterForm" (ngSubmit)="onSubmit()" style="width:50%">
+      <div class="form-group" [ngClass]="displayFieldCss('fcName')">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="fcName" formControlName="fcName" focus-me="shouldBeOpen">
+        <pre [hidden]="inValidName" class="alert-danger">Valid name is required.</pre>
+      </div>
+      <div class="form-group" [ngClass]="displayFieldCss('fcNumber')">
+        <label for="Number">Number</label>
+        <input type="text" class="form-control" id="fcNumber" formControlName="fcNumber">
+        <pre [hidden]="inValidNumber" class="alert-danger">Valid numeric input is required.</pre>
+      </div>
+      <button type="submit" class="btn btn-success">Submit</button>
+      <button type="button" class="btn btn-success" (click)="onReset()">Reset</button>
+    </form>
+
+    <br>
+    <h1>Output </h1>
+    <div *ngIf="isOutputFound">
+      <label for="name">Name</label><br>
+      <label style="color:#0858B3; ">{{accountInfo.name}} </label><br>
+      <label for="name">Number in Words </label><br>
+      <label style="color:#0858B3; ">{{accountInfo.numberInWords}} </label>
+    </div>
+  </div>
+</div>

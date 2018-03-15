@@ -1,0 +1,9 @@
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\bin\Debug\netcoreapp2.0\NumberToWordConverter.deps.json
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\bin\Debug\netcoreapp2.0\NumberToWordConverter.dll
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\bin\Debug\netcoreapp2.0\NumberToWordConverter.pdb
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\obj\Debug\netcoreapp2.0\NumberToWordConverter.csproj.CoreCompileInputs.cache
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\obj\Debug\netcoreapp2.0\NumberToWordConverter.AssemblyInfoInputs.cache
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\obj\Debug\netcoreapp2.0\NumberToWordConverter.AssemblyInfo.cs
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\obj\Debug\netcoreapp2.0\NumberToWordConverter.dll
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\obj\Debug\netcoreapp2.0\NumberToWordConverter.pdb
+C:\_D\AKQA\CurrencyConverter\ConvertNumberIntoWords\NumberToWordConverter\obj\Debug\netcoreapp2.0\NumberToWordConverter.csprojResolveAssemblyReference.cache
