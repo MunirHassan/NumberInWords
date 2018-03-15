@@ -29,7 +29,7 @@ This Web application converts Number into Words. It has two parts, one WebAPI an
 
 ### Front-end Application
 * For the front-end web application, using command prompt navigate to the directory "\ConversionWebApp" and run "npm install"
--which will download necessary angular modules, then run "ng serve", which will launch the web application or user can browse "http://localhost:1444/". This web applcation will consume the Web API.
+-which will download necessary angular modules, then run "ng serve --open", which will launch the web application or user can browse "http://localhost:1444/". This web applcation will consume the Web API.
 
 ### Unit test
 * xUnit test project "ConvertNumberIntoWord.Tests" is added in the visual studio solution to cover some of the scenarios.
