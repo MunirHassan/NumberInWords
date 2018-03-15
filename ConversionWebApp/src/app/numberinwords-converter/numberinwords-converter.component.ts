@@ -6,8 +6,7 @@ import { ConverterService } from '../numberinwords-converter.service';
 
 @Component({
   selector: 'app-numberinwords-converter',
-  templateUrl: './numberinwords-converter.component.html',
-  styleUrls: ['./numberinwords-converter.component.css']
+  templateUrl: './numberinwords-converter.component.html'
 })
 
 export class NumberInWordsConverterComponent implements OnInit {
