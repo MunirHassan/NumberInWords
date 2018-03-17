@@ -3,7 +3,7 @@
 This Web application converts Number into Words. It has two parts, one WebAPI and one Angular based Web Application.
 
 ## Features
-* Will capture a person's name (ex. John Doe) and a number (ex. 123.45)
+* Will capture a person's name (ex. John Doe [min. length two]) and a number (ex. 123.45 [two decimal points])
 * Convert this number into words.
 * Render this name and number (as words) in a web page.
 * Converted words will be displayed with currency name DOLLAR and CENTS.
